@@ -25,7 +25,7 @@
 
 ## 라이선스
 
-이 프로젝트는 [Apache License 2.0](./LICENSE](https://github.com/DailyDevQ/dailydevq-main/blob/main/LICENSE)) 하에 배포됩니다. 자세한 내용은 LICENSE 파일을 참조하세요.
+이 프로젝트는 [Apache License 2.0](./LICENSE) 하에 배포됩니다. 자세한 내용은 LICENSE 파일을 참조하세요.
 
 ## 문의
 
