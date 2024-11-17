@@ -9,7 +9,7 @@
 ## 기술 스택
 
 - **프론트엔드**: Flask, Jinja2, Bootstrap 5, Vanilla JavaScript, React Native
-- **백엔드**: Python 3.9+, AWS Lambda, AWS API Gateway, OpenAI API (GPT-3.5 Turbo), AWS SES, DynamoDB
+- **백엔드**: Python 3.10+, AWS Lambda, AWS API Gateway, OpenAI API (GPT-3.5 Turbo), AWS SES, DynamoDB
 - **인프라 및 배포**: AWS 클라우드 서비스, Terraform, GitHub Actions, CloudWatch
 - **AI 및 데이터 분석**: OpenAI GPT-3.5 Turbo, Scikit-learn, Pandas
 - **모니터링 및 보안**: AWS CloudWatch, AWS IAM, DynamoDB PITR, OWASP 보안 가이드라인 준수
