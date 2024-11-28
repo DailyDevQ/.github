@@ -1,7 +1,7 @@
 # DailyDevQ 조직 소개
 
-[![EN](https://img.shields.io/badge/lang-en-blue.svg)](/README-en.md) 
-[![KR](https://img.shields.io/badge/lang-kr-red.svg)](/README.md)
+[![EN](https://img.shields.io/badge/lang-en-blue.svg)](README-en.md) 
+[![KR](https://img.shields.io/badge/lang-kr-red.svg)](README.md)
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4.svg?logo=terraform)
