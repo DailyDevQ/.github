@@ -1,5 +1,9 @@
 # DailyDevQ 조직 소개
 
+[![EN](https://img.shields.io/badge/lang-en-blue.svg)](README-en.md)
+[![KR](https://img.shields.io/badge/lang-kr-red.svg)](README.md)
+
+
 **DailyDevQ**는 개발자들의 학습과 면접 준비를 지원하기 위해 AI와 클라우드 기술을 활용한 솔루션을 제공합니다. 우리는 맞춤형 일일 면접 질문과 학습 도구를 통해 개발자들이 지속적으로 성장할 수 있도록 돕습니다.
 
 ## 주요 프로젝트
