@@ -1,7 +1,16 @@
 # **About DailyDevQ**
 
-[![EN](https://img.shields.io/badge/lang-en-blue.svg)](README-en.md)
-[![KR](https://img.shields.io/badge/lang-kr-red.svg)](README.md)
+[![EN](https://img.shields.io/badge/lang-en-blue.svg)](/README/README-en.md) 
+[![KR](https://img.shields.io/badge/lang-kr-red.svg)](/README.md)
+
+![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4.svg?logo=terraform)
+![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900.svg?logo=amazon-aws)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF.svg?logo=github-actions)
+![OpenAI](https://img.shields.io/badge/AI-OpenAI-412991.svg?logo=openai)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
+<!-- ![Build Status](https://github.com/DailyDevQ/dailydevq-main/actions/workflows/main.yml/badge.svg) -->
 
 **DailyDevQ** provides AI-powered and cloud-based solutions to support developers in learning and preparing for technical interviews. Through customized daily interview questions and learning tools, we aim to help developers continuously grow and succeed.
 
